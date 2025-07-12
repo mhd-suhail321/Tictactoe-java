@@ -17,8 +17,8 @@ This project is a classic *Tic Tac Toe* built using *Java*, featuring clean code
 ---
 
 ## 📸 Preview (Optional)
+ <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/a4dd7268-5d44-4031-bed3-2c54ba70ca30" />
 
-> Insert a screenshot or GIF of your game here if available
 
 ---
 
