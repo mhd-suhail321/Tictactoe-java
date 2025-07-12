@@ -16,8 +16,9 @@ This project is a classic *Tic Tac Toe* built using *Java*, featuring clean code
 
 ---
 
-## 📸 Preview (Optional)
- <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/a4dd7268-5d44-4031-bed3-2c54ba70ca30" />
+## 📸 Preview 
+ 
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/d381a5f5-8b5d-4c1d-b162-433c8b0bc07c" />
 
 
 ---
